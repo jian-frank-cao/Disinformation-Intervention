@@ -1,0 +1,10 @@
+.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+data/ros_ids_complete.csv
+data/sc_results.Rds
+data/extracted_ts.Rds
+data/extracted_ts.Rds
